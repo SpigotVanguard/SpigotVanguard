@@ -6,8 +6,12 @@
   
   ### 💻 Tecnologias e Linguagens:
   <div>
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <a href="https://github.com/SpigotVanguard">
+      <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    </a>
+    <a href="https://github.com/SpigotVanguard">
+      <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    </a>
     <!-- Adicione outras linguagens aqui -->
   </div>
   
@@ -19,9 +23,8 @@
     <!-- Adicione outras redes sociais aqui -->
   </div>
   
-### 📈 Minhas contribuições no GitHub:
-![pigotVanguard](https://github-readme-stats.vercel.app/api?username=SpigotVanguard&show_icons=true&theme=radical&title_color=ffffff&icon_color=bb2acf)
-
+  ### 📈 Minhas contribuições no GitHub:
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpigotVanguard&show_icons=true&theme=radical&title_color=ffffff&icon_color=bb2acf)
   
   ### 📚 Linguagens Populares:
   <a href="https://github.com/anuraghazra/github-readme-stats">
