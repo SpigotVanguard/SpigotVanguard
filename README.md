@@ -1,16 +1,29 @@
-### Hi there 👋
-
-<!--
-**SpigotVanguard/SpigotVanguard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+  # 👋 Olá, eu sou Alexandre V. Oliveira
+  
+  ## 👨‍💻 Desenvolvedor Iniciante | 🌱 Aprendendo e Explorando
+  
+  ### 💻 Tecnologias e Linguagens:
+  <div>
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <!-- Adicione outras linguagens aqui -->
+  </div>
+  
+  ### 🌐 Redes Sociais:
+  <div>
+    <a href="https://twitter.com/SpigotVanguard">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <!-- Adicione outras redes sociais aqui -->
+  </div>
+  
+  ### 📊 Estatísticas no GitHub:
+  <img src="https://github-readme-stats.vercel.app/api?username=SpigotVanguard&show_icons=true&theme=radical" alt="pigotVanguard">
+  
+  ### 📚 Linguagens Populares:
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpigotVanguard" alt="Top Langs">
+  </a>
+</div>
