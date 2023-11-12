@@ -20,7 +20,7 @@
   </div>
   
   ### 📊 Estatísticas no GitHub:
-  <img src="https://github-readme-stats.vercel.app/api?username=SpigotVanguard&show_icons=true&theme=radical" alt="pigotVanguard">
+  <img src="https://github-readme-stats.vercel.app/api?username=SpigotVanguard&show_icons=true&theme=radical" alt="SpigotVanguard">
   
   ### 📚 Linguagens Populares:
   <a href="https://github.com/anuraghazra/github-readme-stats">
